@@ -1,0 +1,21 @@
+Orden de ejecucion de scripts:
+
+1- Creacion de esquema y tablas: En esta carpeta esta el script que crea el esquema llamado proyectocoder y 
+las tablas correspondientes a esta incluyendo las tablas de auditoria (.sql).
+
+2- Insercion de datos: En esta carpeta esta el script con toda la insercion de datos para la base de datos (.sql).
+
+3- Views: En esta carpeta esta el script que crea todas las vistas de la base de datos (.sql).
+
+4- Funciones: En esta carpeta esta el script con la creacion y ejecucion de las funciones de la base de datos (.sql).
+
+5- Stored Procedure: En esta caarpeta contiene el script de la creacion y ejecicion de los procedimientos almacenados (.sql).
+
+6- Triggers: Esta carpeta contiene el script con la creacion de los disparadores para que se guarden en las tablas de auditoria 
+todos los cambios que se hagan (.sql).
+
+7- TCL: Esta carpeta con el script de Lenguajes de control transaccional aplicando a las tablas de articulos y clientes (.sql).
+
+8- Sentencias: Esta carpeta contiene el script con la creacion de 3 usuarios para la base de datos (.sql).
+
+9- Backup: Esta carpeta contiene un script con el backup de todos los datos de las tablas en caso de ser necesario (.sql)
